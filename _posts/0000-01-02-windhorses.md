@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"..if you gaze long into an abyss, the abyss also gazes into you." -Nietzsche
 Use the left arrow to go back!
